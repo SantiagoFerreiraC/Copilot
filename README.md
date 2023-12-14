@@ -1,12 +1,12 @@
-# Project Name
+# House price predictions
 
-This is a brief description of your project.
+This project creates a dataset containing the prices of 10,000 houses along with other variables. It then runs a linear regression model to explain the price using these variables. Finally, it deploys a Streamlit app that allows users to input integers for the house variables to predict its price.
 
 ## Files
 
 - `main.py`: This is the main file of the project.
-- `model.py`: This file contains the model implementation.
-- `crear.py`: This file is responsible for creating something.
+- `model.py`: This file contains the linear regression model responsible for predicting the house prices.
+- `crear.py`: This file is responsible for creating the data base.
 - `unitarios.py`: This file contains the unit tests for the project.
 
 ## Installation
