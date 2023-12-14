@@ -16,7 +16,7 @@ This is a brief description of your project.
 
 ## Usage
 
-1. Run `python main.py` to start the project.
+1. Run `streamlit run main.py` to start the project.
 2. Follow the instructions on the console.
 
 ## Contributing
