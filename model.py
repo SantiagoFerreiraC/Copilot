@@ -27,3 +27,4 @@ def predict_price(habitaciones, piso, barrio):
     predicted_price = model.predict(input_data)
     
     return predicted_price[0]
+
